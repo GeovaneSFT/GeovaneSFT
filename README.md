@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Geovane 👋
+
+Currently I'm a Software Engineering student. 
+I'm doing some personal projects that can help me in my daily ativities.
 
 <!--
 **BlimblimCFT/BlimblimCFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
