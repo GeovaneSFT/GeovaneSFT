@@ -4,10 +4,10 @@ Currently I'm a Software Engineering student.
 
 I'm doing some personal projects that can help me in my daily ativities.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold&hide_border=true" />
 </a>
 
