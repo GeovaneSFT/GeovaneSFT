@@ -5,10 +5,10 @@ Currently I'm a Software Engineering student.
 I'm doing some personal projects that can help me in my daily ativities.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold" />
 </a>
 
 [![Blimblim GitHub stats](https://github-readme-stats.vercel.app/api?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
