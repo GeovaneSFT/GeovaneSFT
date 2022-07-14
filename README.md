@@ -1,6 +1,7 @@
 ### Hi there, I'm Geovane 👋
 
-Currently I'm a Software Engineering student. 
+Currently I'm a Software Engineering student.
+
 I'm doing some personal projects that can help me in my daily ativities.
 
 <!--
