@@ -13,6 +13,7 @@ jobs:
       contents: write
     steps:
       - uses: BlimblimCFT/metrics@master
+      token: ${{ secrets.METRICS_TOKEN }}
         with: 
           user: BlimblimCFT
           template: classic
