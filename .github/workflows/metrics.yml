@@ -13,8 +13,8 @@ jobs:
       contents: write
     steps:
       - uses: BlimblimCFT/metrics@master
-      token: ${{ secrets.METRICS_TOKEN }}
         with: 
+          token: ${{ secrets.METRICS_TOKEN }}
           user: BlimblimCFT
           template: classic
           base: header, activity, community, repositories, metadata
