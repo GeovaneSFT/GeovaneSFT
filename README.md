@@ -4,10 +4,6 @@ Currently I'm a Software Engineering student.
 
 I'm doing some personal projects that can help me in my daily ativities.
 
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif">
-
-
-
 <a href="https://github.com/BlimblimCFT">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold&hide_border=true" />
 </a>
