@@ -12,6 +12,7 @@
 </h1>
 </div>
 
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 Currently I'm a Software Engineering student.
 
