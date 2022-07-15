@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif" width="100"/>
+</div>
 ### Hi there, I'm Geovane 👋
 
 Currently I'm a Software Engineering student.
@@ -28,4 +31,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![MasterHead](https://raw.githubusercontent.com/BlimblimCFT/BlimblimCFT/7ef95a7ac21fcb5dd50a6223bce3a713b48171e9/header.png)](github.com/BlimblimCFT)
+
+
+https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif
+
 -->
