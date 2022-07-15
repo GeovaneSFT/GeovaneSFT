@@ -16,11 +16,12 @@ I'm doing some personal projects that can help me in my daily activities, with a
 <a href="https://github.com/BlimblimCFT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold&hide_border=true" />
 </a>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/geovane-cft/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=BlimblimCFT&style=flat-square&color=blue" alt=""/>
+  <img align ="center" src="https://komarev.com/ghpvc/?username=BlimblimCFT&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!--
