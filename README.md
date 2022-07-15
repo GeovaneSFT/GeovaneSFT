@@ -10,8 +10,8 @@ I'm doing some personal projects that can help me in my daily ativities.
 <a href="https://github.com/BlimblimCFT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold&hide_border=true" />
 </a>
-<div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/BlimblimCFT/BlimblimCFT/main/drpbsigmd9b91.gif" width="1000" border-radius="50"/>
+<div id="header" align="left">
+  <img src="https://raw.githubusercontent.com/BlimblimCFT/BlimblimCFT/main/drpbsigmd9b91.gif" width="900" border-radius="50"/>
 </div>
 
 <!--
