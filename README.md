@@ -13,7 +13,7 @@ I'm doing some personal projects that can help me in my daily activities.
   
 
 <a href="https://github.com/BlimblimCFT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold&hide_border=true&line_height=20&card_width=0" />
 </a>
 <a href="https://github.com/BlimblimCFT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold&hide_border=true" />
