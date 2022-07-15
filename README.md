@@ -4,6 +4,14 @@ Currently I'm a Software Engineering student.
 
 I'm doing some personal projects that can help me in my daily activities.
 
+<ul dir="auto">
+  <li> 🌱 I'm currently learning C++, Python and NodeJS </li>
+  <li> 🤔 I’m looking for help with Discord BOT Integration with Whatsapp Cloud API </li>
+  <li> ⚡ Fun fact: Anime Lover </li>
+  
+</ul>
+  
+
 <a href="https://github.com/BlimblimCFT">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold&hide_border=true" />
 </a>
