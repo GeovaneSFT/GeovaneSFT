@@ -4,7 +4,7 @@ Currently I'm a Software Engineering student.
 
 I'm doing some personal projects that can help me in my daily ativities.
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif">
+<img align="right" alt="Coding" width="100" src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif">
 
 
 
