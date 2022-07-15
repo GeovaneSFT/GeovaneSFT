@@ -2,7 +2,7 @@
 
 Currently I'm a Software Engineering student.
 
-I'm doing some personal projects that can help me in my daily ativities.
+I'm doing some personal projects that can help me in my daily activities.
 
 <a href="https://github.com/BlimblimCFT">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold&hide_border=true" />
