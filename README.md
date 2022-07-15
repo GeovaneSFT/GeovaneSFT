@@ -16,10 +16,8 @@
 
 ### :man_technologist: About Me :
 
-Hi, my name is Geovane, aka Blimblim.
-
-I'm a Software Engineering student from Brazil.
-
+Hi, my name is Geovane, aka Blimblim. <br>
+I'm a Software Engineering student from Brazil. <br>
 I'm doing some personal projects that can help me in my daily activities, with a focus on back-end development.
 
 <ul dir="auto">
