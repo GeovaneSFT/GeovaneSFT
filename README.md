@@ -2,7 +2,7 @@
 
 Currently I'm a Software Engineering student.
 
-I'm doing some personal projects that can help me in my daily activities.
+I'm doing some personal projects that can help me in my daily activities, with a focus on back-end development.
 
 <ul dir="auto">
   <li> 🌱 I'm currently learning C++, Python and NodeJS </li>
