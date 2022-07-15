@@ -49,7 +49,7 @@ I'm doing some personal projects that can help me in my daily activities, with a
 ### :fire: My Stats :
 
 <div>
-<details>
+<details open>
 <summary>
 Cards
 </summary>
