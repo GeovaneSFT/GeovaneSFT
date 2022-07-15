@@ -1,8 +1,4 @@
-### Hi there, I'm Geovane 👋
 
-Currently I'm a Software Engineering student.
-
-I'm doing some personal projects that can help me in my daily ativities.
 
 
 [![MasterHead](https://raw.githubusercontent.com/BlimblimCFT/BlimblimCFT/7ef95a7ac21fcb5dd50a6223bce3a713b48171e9/header.png)](github.com/BlimblimCFT)
@@ -26,4 +22,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: galefreitas@gmail.com
 - ⚡ Fun fact: ...
+### Hi there, I'm Geovane 👋
+
+Currently I'm a Software Engineering student.
+
+I'm doing some personal projects that can help me in my daily ativities.
 -->
