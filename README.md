@@ -16,10 +16,6 @@ I'm doing some personal projects that can help me in my daily activities, with a
 <a href="https://github.com/BlimblimCFT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold&hide_border=true" />
 </a>
-<div id="header" align="left">
-  <img src="https://raw.githubusercontent.com/BlimblimCFT/BlimblimCFT/main/drpbsigmd9b91.gif" width="797.39" border-radius="100"/>
-</div>
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/geovane-cft/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -44,7 +40,9 @@ Here are some ideas to get you started:
 
 
 https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif
-
+<div id="header" align="left">
+  <img src="https://raw.githubusercontent.com/BlimblimCFT/BlimblimCFT/main/drpbsigmd9b91.gif" width="797.39" border-radius="100"/>
+</div>
 
 
 -->
