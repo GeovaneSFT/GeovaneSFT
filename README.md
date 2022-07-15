@@ -1,8 +1,4 @@
-<div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/BlimblimCFT/BlimblimCFT/main/drpbsigmd9b91.gif" width="500" border-radius="50"/>
-</div>
-
-Hi there, I'm Geovane 👋
+### Hi there, I'm Geovane 👋
 
 Currently I'm a Software Engineering student.
 
@@ -14,6 +10,9 @@ I'm doing some personal projects that can help me in my daily ativities.
 <a href="https://github.com/BlimblimCFT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlimblimCFT&count_private=true&show_icons=true&theme=maroongold&hide_border=true" />
 </a>
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/BlimblimCFT/BlimblimCFT/main/drpbsigmd9b91.gif" width="100" border-radius="50"/>
+</div>
 
 <!--
 **BlimblimCFT/BlimblimCFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
