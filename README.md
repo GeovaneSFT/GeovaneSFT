@@ -31,5 +31,9 @@ Here are some ideas to get you started:
 
 
 https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif" width="100" border-radius="50"/>
+</div>
+
 
 -->
