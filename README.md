@@ -20,7 +20,7 @@ I'm a Software Engineering student from Brazil. <br>
 I'm doing some personal projects that can help me in my daily activities, with a focus on back-end development.
 
 <ul dir="auto">
-  <li> 🌱 I'm currently learning C++, Python and NodeJS </li>
+  <li> 🌱 I'm currently learning C++ and Python</li>
   <li> 🤔 I’m looking for help with Discord BOT Integration with Whatsapp Cloud API </li>
   <li> ⚡ Fun fact: Anime Lover </li>
   <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/geovane-cft/">
@@ -55,8 +55,6 @@ Cards
 </summary>
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlimblimCFT&theme=dark&background=000000)](https://git.io/streak-stats)
-
 </div>
 <div align="center">
 <a href="https://github.com/BlimblimCFT">
@@ -78,6 +76,8 @@ Metrics
 
 <!--
 **BlimblimCFT/BlimblimCFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlimblimCFT&theme=dark&background=000000)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
