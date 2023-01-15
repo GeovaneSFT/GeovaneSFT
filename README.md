@@ -48,7 +48,7 @@ I'm doing some personal projects that can help me in my daily activities, with a
 
 ### :fire: My Stats :
 
-<div>
+<!--<div>
 <details open>
 <summary>
 Cards
@@ -66,8 +66,9 @@ Cards
 </div>
 </details>
 </div>
+-->
 
-<details>
+<details open>
 <summary>
 Metrics
 </summary>
