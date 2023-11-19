@@ -1,32 +1,9 @@
 <div id="header" align="center">
-  <img src="https://avatarfiles.alphacoders.com/108/108917.png" width="150" />
-  <div id="badgez">
-  <a href="https://www.linkedin.com/in/geovane-cft/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-  <img align ="center" src="https://komarev.com/ghpvc/?username=BlimblimCFT&style=flat-square&color=blue" alt=""/>
  <h1>
   Hey there, Welcome to my Profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-
-
-### :man_technologist: About Me :
-
-Hi, my name is Geovane, aka Blimblim. <br>
-I'm a Software Engineering student from Brazil. <br>
-I'm doing some personal projects that can help me in my daily activities, with a focus on back-end development.
-
-<ul dir="auto">
-  <li> 🌱 I'm currently learning C++ and Python</li>
-  <li> 🤔 I’m looking for help with Discord BOT Integration with Whatsapp Cloud API </li>
-  <li> ⚡ Fun fact: Anime Lover </li>
-  <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/geovane-cft/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="75"/>
-  </a> </li>
-</ul>
 
 ---
 
