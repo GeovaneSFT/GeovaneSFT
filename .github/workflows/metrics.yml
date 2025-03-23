@@ -21,8 +21,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           config_order: anilist, music
-          # output_action: gist
-          # committer_gist: ${{ secrets.GIST }}
+          output_action: gist
+          committer_gist: https://gist.github.com/GeovaneSFT/3f6f6bbd700a672dc63c01379ffb7b6b.js
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
