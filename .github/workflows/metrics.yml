@@ -33,6 +33,7 @@ jobs:
           committer_gist: https://gist.github.com/GeovaneSFT/3f6f6bbd700a672dc63c01379ffb7b6b.js
           plugin_anilist: yes
           plugin_anilist_medias: anime
+          plugin_anilist_user: Blimblim
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
