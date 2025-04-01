@@ -42,7 +42,7 @@ jobs:
 
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
-        uses: GeovaneSFT/metrics@latest
+        uses: GeovaneSFT/metrics@master
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -55,7 +55,7 @@ jobs:
 
       - name: 🦑 Sponsors
         if: ${{ success() || failure() }}
-        uses: GeovaneSFT/metrics@latest
+        uses: GeovaneSFT/metrics@master
         with:
           filename: sponsors.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -69,7 +69,7 @@ jobs:
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
-        uses: GeovaneSFT/metrics@latest
+        uses: GeovaneSFT/metrics@master
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
