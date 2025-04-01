@@ -23,7 +23,7 @@ jobs:
 
       - name: 🦑 Medias
         if: ${{ success() || failure() }}
-        uses: GeovaneSFT/metrics@latest
+        uses: GeovaneSFT/metrics@master
         with:
           filename: medias.svg
           token: ${{ secrets.METRICS_TOKEN }}
