@@ -2,6 +2,8 @@
 # Feel free to reuse, edit and redistribute this workflow as you wish, no credits needed
 # See https://github.com/lowlighter/metrics for documentation about how to use metrics action
 
+
+  
 name: Metrics
 on:
   # 🌏 Think about the planet! No need to update stats too frequently
@@ -12,6 +14,12 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
+
+      - name: Enable debug logging
+        run: |
+          touch .env
+          echo "ACTIONS_STEP_DEBUG=true" >> .env
+          cat .env
 
       - name: 🦑 Medias
         if: ${{ success() || failure() }}
