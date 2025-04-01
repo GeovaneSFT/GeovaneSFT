@@ -48,8 +48,8 @@ jobs:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          # output_action: gist
-          # committer_gist: ${{ secrets.GIST }}
+          output_action: gist
+          committer_gist: https://gist.github.com/GeovaneSFT/3f6f6bbd700a672dc63c01379ffb7b6b.js
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
@@ -61,8 +61,8 @@ jobs:
           filename: sponsors.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          # output_action: gist
-          # committer_gist: ${{ secrets.GIST }}
+          output_action: gist
+          committer_gist: https://gist.github.com/GeovaneSFT/3f6f6bbd700a672dc63c01379ffb7b6b.js
           plugin_sponsors: yes
           plugin_sponsors_past: yes
           plugin_sponsorships: yes
@@ -77,8 +77,8 @@ jobs:
           base: header
           base_indepth: yes
           config_order: base.header, isocalendar, languages, notable, discussions, topics
-          # output_action: gist
-          # committer_gist: ${{ secrets.GIST }}
+          output_action: gist
+          committer_gist: https://gist.github.com/GeovaneSFT/3f6f6bbd700a672dc63c01379ffb7b6b.js
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, ejs
