@@ -20,12 +20,12 @@ Metrics
 
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/GeovaneSFT/9f2bd38c62f6aaf32025fa93fcce195f/raw/general.svg">](#)
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/GeovaneSFT/9f2bd38c62f6aaf32025fa93fcce195f/raw/medias.svg?p">](#)
-<!-- [<img align="right" width="390" height="80" alt="🦑" src="https://gist.githubusercontent.com/GeovaneSFT/9f2bd38c62f6aaf32025fa93fcce195f/raw/placeholder.svg">](#) -->
+[<img align="right" width="390" height="80" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/9f2bd38c62f6aaf32025fa93fcce195f/raw/placeholder.svg">](#)
 
 <!-- [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/GeovaneSFT/9f2bd38c62f6aaf32025fa93fcce195f/raw/sponsors.svg">](https://github.com/sponsors/GeovaneSFT) -->
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/GeovaneSFT/9f2bd38c62f6aaf32025fa93fcce195f/raw/achievements.svg">](#)
 
-<!-- [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/GeovaneSFT/9f2bd38c62f6aaf32025fa93fcce195f/raw/placeholder.svg">](#) -->
+[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/9f2bd38c62f6aaf32025fa93fcce195f/raw/placeholder.svg">](#)
 
 
 
