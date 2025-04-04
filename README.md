@@ -7,7 +7,7 @@
 
 ---
 > Want to know what I'm currently working on ?\
-> Checkout [@Blimblim's todos](https://github.com/users/GeovaneSFT/projects/9)
+> Checkout [@Blimblim's todos](https://github.com/users/GeovaneSFT/projects/2)
 
 ### :fire: My Stats :
 
